@@ -1,0 +1,19 @@
+---
+title: "Bioinfomatics"
+image: "https://bioboot.github.io/bggn213_F21/assets/img/logo.png"
+links:
+  - label: BGGN213
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: Homepage
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.
